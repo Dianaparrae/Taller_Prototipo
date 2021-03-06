@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.menu{
+    background-color: rgb(87, 156, 221);
+}
+ 
+.listaMenu{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.caroucelStyle{
+    height: 600px;
+}
+
+.botonStyle1{
+    color: rgb(87, 156, 221);
+}
+
+.botonStyle2{
+    color: rgb(87, 156, 221);
+}
+
+.botonStyle3{
+    color: rgb(87, 156, 221);
+}
+
+.botonStyle4{
+    background-color: rgb(87, 156, 221);
+    border-color: blue;
+}
+
+.botonStyle5{
+    background-color: rgb(87, 156, 221);
+    border-color: blue;
+}
+
+.botonStyle6{
+    background-color: rgb(87, 156, 221);
+    border-color: blue;
+}
